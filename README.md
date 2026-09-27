@@ -42,10 +42,19 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
-📂 **[Library Management System](https://github.com/AnasAhmed2005916/library-system)**
-> A structured desktop/console system designed to manage book inventories, users, and borrowing operations efficiently using Object-Oriented Programming and Data Structures.
+1. 📝 **[Notes App](https://github.com/AnasAhmed2005916/NotesApp.git)**
+   > A sleek and intuitive note-taking application built with **Flutter**, designed for efficiently creating, editing, and managing daily personal notes with local storage capabilities.
+
+2. 💬 **[Chat App](https://github.com/AnasAhmed2005916/ChatApp.git)**
+   > A real-time messaging mobile application built with **Flutter**, offering modern UI/UX design and real-time data communication for seamless user messaging.
+
+3. 📚 **[Book App](https://github.com/AnasAhmed2005916/book_app.git)**
+   > A Flutter mobile application created for book enthusiasts to discover, browse, and read book details with an attractive interface and interactive user features.
+
+4. 🏛️ **[Library Management System](https://github.com/AnasAhmed2005916/library-system)**
+   > A structured desktop/console system designed to manage book inventories, users, and borrowing operations efficiently using Object-Oriented Programming and Data Structures.
 
 ---
 
