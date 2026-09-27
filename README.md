@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-ahmed-mazhar/)
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karreemahmed589@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasahmedmazhar555@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/AnasAhmed2005916?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/AnasAhmed2005916)
 
 </div>
